@@ -32,7 +32,6 @@ The dataset contains anonymized customer purchase records, including:
 - **Quantity**
 - **Transaction Frequency**
 
-> 💡 You can replace this section with a link or short description of your actual dataset.
 
 ---
 
