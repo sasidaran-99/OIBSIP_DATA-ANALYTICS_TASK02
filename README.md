@@ -66,7 +66,7 @@ Each cluster was analyzed to extract behavioral patterns. For example:
 - **Cluster 2**: High Monetary — High-value customers
 - **Cluster 3**: Recent & Frequent but low spend — Engaged Newcomers
 
-> Detailed insights and recommendations are provided in the notebook output.
+.
 
 ---
 
